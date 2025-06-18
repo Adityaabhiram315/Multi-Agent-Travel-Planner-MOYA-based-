@@ -4,7 +4,7 @@
 
 This Travel Planner Multi-Agent System is a passion project crafted by Aditya Abhiram, built using the powerful " MOYA AI " framework —a cutting-edge multi-agent architecture originally developed by research students at IIIT-Hyderabad.
 
-A special note of gratitude to Sreemaee Akshathala, the visionary author behind the MOYA framework's research, whose work laid the foundation for this intelligent orchestration of collaborative agents.
+A special note of gratitude to Sreemaee Akshathala @Sreemaee21 , the visionary author behind the MOYA framework's research, whose work laid the foundation for this intelligent orchestration of collaborative agents.
 
 
 ## Task Design
