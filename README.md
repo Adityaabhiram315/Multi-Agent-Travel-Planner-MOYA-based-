@@ -34,7 +34,7 @@ The system is designed to handle complex travel planning scenarios by breaking t
 │  │ • Destination   │    │ • Itinerary Creation        │ │
 │  │   Information   │    │ • Accommodation Suggestions │ │
 │  │ • Weather Data  │    │ • Budget Estimation         │ │
-│  │ • Attractions   │    │ • Packing Lists            │ │
+│  │ • Attractions   │    │ • Packing Lists             │ │
 │  │ • Cultural Tips │    │ • Transportation Planning   │ │
 │  └─────────────────┘    └─────────────────────────────┘ │
 ├─────────────────────────────────────────────────────────┤
