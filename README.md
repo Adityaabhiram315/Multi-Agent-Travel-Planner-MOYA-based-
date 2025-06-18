@@ -1,4 +1,4 @@
-# Travel Planner Multi-Agent System
+# 🌍✈️ Travel Planner Multi-Agent System
 
 ## Overview
 
