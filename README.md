@@ -1,7 +1,11 @@
 # Travel Planner Multi-Agent System
 
 ## Overview
-A sophisticated travel planning system that leverages multiple AI agents to provide comprehensive travel assistance. The system integrates OpenAI's GPT models with specialized travel tools to deliver personalized travel recommendations, itinerary planning, and destination information.
+
+This Travel Planner Multi-Agent System is a passion project crafted by Aditya Abhiram, built using the powerful " MOYA AI " framework —a cutting-edge multi-agent architecture originally developed by research students at IIIT-Hyderabad.
+
+A special note of gratitude to Sreemaee Akshathala, the visionary author behind the MOYA framework's research, whose work laid the foundation for this intelligent orchestration of collaborative agents.
+
 
 ## Task Design
 
